@@ -1,0 +1,40 @@
+
+MESSAGE:
+checking scheduled maintenance today
+
+ACTUAL: neutral
+PREDICTED: neutral
+
+============================================================
+
+MESSAGE:
+app experience smooth reliable appreciate quick response
+
+ACTUAL: positive
+PREDICTED: neutral
+
+============================================================
+
+MESSAGE:
+confirm whether ticket assigned
+
+ACTUAL: neutral
+PREDICTED: neutral
+
+============================================================
+
+MESSAGE:
+raised multiple tickets nobody fixed problem ticket number
+
+ACTUAL: negative
+PREDICTED: neutral
+
+============================================================
+
+MESSAGE:
+billing incorrect charged twice month
+
+ACTUAL: negative
+PREDICTED: neutral
+
+============================================================
